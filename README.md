@@ -1,4 +1,4 @@
-# Kanban - Site Vida Católica (React + Spring Boot + MongoDB/MySQL)
+# Kanban - Site Auxílio dos Cristãos (React + Spring Boot + MongoDB/MySQL)
 
 ## 🔧 Backlog (Setup Inicial)
 - [ ] Configurar ambiente React + Vite (Deadline: **20/08/2024**) ⭐⭐  
